@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "MorningTest",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "de",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "Y2FhYjUzNDUzMjUyZmYyNTBlZTUyNmIxY2FjOWUwNTdmZTM3OWU4OWVlOTA4ZmYxMDVhNThiNzNmZDMzYzIxYzMyYmY2YmVhNjJlZTVjNTJkOTIyNDE5MTc2YTc1ZDI5NTQ4M2Q1MzE1ZWQzOWViYTYyNWY1ZWNlNmI2NWYwZTE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ialura",
+  "repository-name": "morning-test"
+}
